@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "My Extension",
+  "version": "0.0.1",
+  "description": "My Bitcoin Extension",
+  "author": "andrewloveua@gmail.com",
+  "icons": {
+    "16": "bitcoin.png",
+    "32": "bitcoin.png",
+    "48": "bitcoin.png",
+    "128": "bitcoin.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "bitcoin.png",
+      "24": "bitcoin.png",
+      "32": "bitcoin.png"
+    },
+    "default_title": "Bitcoin"
+  }
+}
